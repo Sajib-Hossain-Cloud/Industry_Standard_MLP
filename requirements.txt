@@ -4,4 +4,5 @@ seaborn
 scikit-learn
 python
 transformers
+Azure
 -e .
