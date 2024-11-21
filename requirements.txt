@@ -3,5 +3,5 @@ numpy
 seaborn
 scikit-learn
 python
-
+transformers
 -e .
